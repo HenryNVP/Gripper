@@ -4,6 +4,10 @@ from fuzzy_controller import FuzzyController
 
 if __name__ == "__main__":
     controller = FuzzyController()
+    controller.plot_membership_functions()
+    controller.view_rule_table()
+    controller.plot_control_surface()
+
     sampling_time = 0.1  # Time step in seconds
 
     time_current = 0
