@@ -1,7 +1,7 @@
 # Force Fuzzy Control Simulation
 
 ## Overview
-This project implements a force control simulation for a robotic robotic hand using fuzzy logic based on theory in [1]. The simulation models a system where the force applied by the actuator needs to be adjusted based on the error in the current force and its derivative. Using fuzzy logic offers a reliable approach to control grasping forc of the gripper.
+This project implements a force control simulation for a robotic hand using fuzzy logic based on theory in [1]. The simulation models a system where the force applied by the actuator needs to be adjusted based on the error in the current force and its derivative. Using fuzzy logic offers a reliable approach to control grasping force of the gripper.
 
 ## Features
 - Fuzzy Logic Controller: Designs membership function to get the result close to theory.
